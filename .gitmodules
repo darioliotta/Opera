@@ -4,9 +4,6 @@
 [submodule "Betelgeuse"]
 	path = Betelgeuse
 	url = https://github.com/darioliotta/Betelgeuse
-[submodule "repos/Eroica"]
-	path = repos/Eroica
-	url = https://github.com/darioliotta/--Eroica
 [submodule "SYGGRAPH"]
 	path = SYGGRAPH
 	url = https://github.com/darioliotta/SYGGRAPH
@@ -22,3 +19,6 @@
 [submodule "Letters-From-a-Bewitched-Land"]
 	path = Letters-From-a-Bewitched-Land
 	url = https://github.com/darioliotta/Letters-From-a-Bewitched-Land
+[submodule "Eroica"]
+	path = Eroica
+	url = https://github.com/darioliotta/--Eroica
